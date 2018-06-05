@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+}
+
+.row {
+    display: flex;
+   
+    margin-left:30%;
+    margin-right:30%;
+
+
+}
+
+
+.column {
+    flex: 50%;
+    padding: 10px;
+    height: 840px; 
+    width: 20%;
+    
+    background-color:  #fae9e2;
+
+    color: grey;
+
+}
+#munene{
+   
+    
+    text-align :right;
+    margin-top:1%;
+
+    margin-right: 30%;
+    margin-left: 30%;
+    background-color: #da8585;
+    color: grey;
+    height:180px; 
+    
+
+}
+
+img{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin-right:480px;
+    margin-top: 14px;
+}
+.para1{
+   font-size: 200%;
+   text-align: center;
+   margin-left: 16%;
+    top: 55px;
+   position: absolute; 
+
+}
+.footer {
+   position: relative;
+   background-color: #da8585;
+   text-align: center;
+   margin-left: -388px;
+   bottom: -30px;
+   width: 755px;
+   height: 25px;
+}
